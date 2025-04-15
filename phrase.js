@@ -1,5 +1,5 @@
-function newPhrase (){
-    console.log("Ma quanto è bello Dragon Age?");
+function newPhrase (phrase){
+    return phrase;
 }
 
 module.exports = newPhrase;
